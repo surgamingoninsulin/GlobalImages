@@ -1,0 +1,9 @@
+[
+  { "id": "alpines", "name": "Alpines", "file": "VS Landscape - Alpines.png" },
+  { "id": "landscape-default", "name": "Default Landscape", "file": "VS Landscape - Default.png" },
+  { "id": "dessert", "name": "Dessert", "file": "VS Landscape - Dessert.png" },
+  { "id": "flower-valley", "name": "Flower Valley", "file": "VS Landscape - Flower valley.png" },
+  { "id": "rift", "name": "Rift", "file": "VS Landscape - Rift.png" },
+  { "id": "temporal-storm", "name": "Temporal Storm", "file": "VS Landscape - Temporal Storm.png" },
+  { "id": "orange-beach", "name": "Orange Beach", "file": "VS Landscape - orange beach.png" }
+]
